@@ -1,8 +1,7 @@
 ## 我是墨渊
 - 🌹 I am a Java developer with two and a half years of practice 🐵.
 - 🏡 作品： 
-- :pencil: 博客：[CSDN💬](https://blog.csdn.net/hu15029077038?)、[掘金💤](https://juejin.cn/user/530393555544472) - 足够硬核，内容老狠了！https://blog.csdn.net/hu15029077038?spm=1000.2115.3001.5343
-
+- :pencil: 博客：[CSDN💬](https://blog.csdn.net/hu15029077038?)、[掘金💤](https://juejin.cn/user/530393555544472) - 足够硬核，内容丰富！
 
 ### ✨ 我的技能   
 ### ✨ 我的技能(my skills)   
